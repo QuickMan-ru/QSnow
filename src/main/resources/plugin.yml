@@ -1,0 +1,6 @@
+name: QSnow
+version: '${project.version}'
+main: me.qmaan.QSnow
+authors: [qmaan]
+commands:
+  qsnow: {}
